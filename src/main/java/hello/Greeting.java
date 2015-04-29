@@ -2,9 +2,7 @@ package hello;
 
 import org.springframework.stereotype.Service;
 
-/**
- * Created by tbautz on 13.04.15.
- */
+
 
 @Service
 public class Greeting {
